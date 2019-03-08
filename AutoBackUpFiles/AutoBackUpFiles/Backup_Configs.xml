@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+<SourceDirectories>
+  <Directory Name="TestAutoBackup">
+    <DirPath>D:\Sid\TestAutoBackup</DirPath>
+  </Directory>   
+</SourceDirectories>
+  <DestinationDrive>
+    <DriveAddress>F:\</DriveAddress>
+  </DestinationDrive>
+</Root>

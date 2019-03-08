@@ -10,6 +10,8 @@ namespace AutoBackUpFiles
     {
         static void Main(string[] args)
         {
+            Util util = new Util();
+            util.BackupFiles();
         }
     }
 }
